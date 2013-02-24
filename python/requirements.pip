@@ -1,3 +1,2 @@
-gevent==0.13.8
-grequests==0.1.0
-requests==0.14.1
+gevent
+request
