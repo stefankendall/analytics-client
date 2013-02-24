@@ -1,6 +1,6 @@
 import json
 import requests
-import grequests
+from . import grequests
 
 
 class Client(object):
